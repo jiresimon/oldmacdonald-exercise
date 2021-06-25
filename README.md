@@ -1,1 +1,9 @@
 # oldmacdonald-exercise
+
+This is a code that capitalizes the first & fourth letters of a name...
+
+This was created using a user-defined function & also the capitalize method..
+
+Feel free to suggest on how to improve or opinions...
+
+Keep coding and developing...
